@@ -1,5 +1,3 @@
-# DevOps-Mocks
-
 # **DevOps Mock Interview Questions and Answers** 🚀  
 
 Here’s a **comprehensive set of DevOps interview questions** divided into different sections, including **General DevOps, CI/CD, Containers, Cloud, Infrastructure as Code (IaC), and Monitoring**. Each question includes a detailed answer to help you prepare for **DevOps job interviews**.
