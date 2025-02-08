@@ -202,6 +202,14 @@ d) Increasing infrastructure costs
 
 ✅ **Answer:** a) Moving testing and security earlier in the development process  
 
+### **Score Interpretation**  
+✅ **18-20 Correct:** DevOps Expert! 🚀  
+✅ **14-17 Correct:** Well done! You have a strong Azure understanding. 👍  
+✅ **10-13 Correct:** Good effort, but some more practice is needed. 📖  
+✅ **Below 10 Correct:** Keep learning! Review Azure concepts and try again. 🎯  
+
+Would you like more advanced MCQs or detailed explanations? 😊
+
 ---
 
 Let me know if you need more questions or an interactive quiz format! 🚀
